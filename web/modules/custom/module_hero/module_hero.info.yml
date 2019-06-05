@@ -1,0 +1,4 @@
+name: "Module Hero"
+description: "We ae going to b Drupal 8 heros at the end"
+type: module
+core: 8.x
